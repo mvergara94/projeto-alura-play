@@ -4,7 +4,7 @@
 <img src="http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=GREEN&style=for-the-badge"/>
 </p>
 
-<img src="img/Capa-alura-play.png" alt="Capa projeto Alura Play
+<img src="img/Capa-alura-play.png" alt="Capa projeto Alura Play">
 
 # Resumo do projeto
 
